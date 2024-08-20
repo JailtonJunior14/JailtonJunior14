@@ -10,6 +10,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JailtonJunior14&layout=compact&theme=dracula)
 
+<div align="start" style="display: inline-block, justify-content:"start"> 
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailtonJunior14&layout=compact&hide_border=true&theme=dracula&langs_count=6&border_radius=8" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JailtonJunior14&theme=tokyonight&hide_border=true&border_radius=8&mode=weekly&card_width=450" alt="GitHub Streak" /></a>
+</div>
+
 ### Skills
 <div style="display: inline_block"> <br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
