@@ -2,9 +2,10 @@
 
 ## Olá!! Eu sou o Jailton Junior estudante de Desenvolvimento de Sistemas na Etec Joaquim Ferreira do Amaral! 👋
 
-[![LInkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailton-junior-b2773a2b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailton-junior-b2773a2b2/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ju.ni0or?igsh=MTU4aXB0eGc5OGR3OQ==)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jailtonjrbr@gmail.com)
+
 
 ![JailtonJunior14 GitHub stats](https://github-readme-stats.vercel.app/api?username=JailtonJunior14&show_icons=true&theme=dracula)
 
