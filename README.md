@@ -1,6 +1,6 @@
-## Hello!! I'm Jailton Junior, a Systems Development student at Etec Joaquim Ferreira do Amaral! 👋
+## Hello!! I'm Jailton Junior, a Information Technology Management student at Fatec Jahu - Octavio Celso Pacheco de Almeida Prado! 👋
 
-## Olá!! Eu sou o Jailton Junior estudante de Desenvolvimento de Sistemas na Etec Joaquim Ferreira do Amaral! 👋
+## Olá!! Eu sou o Jailton Junior estudante de Gestão de Tecnologia da Informação na Fatec Jahu - Octavio Celso Pacheco de Almeida Prado! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailton-junior-b2773a2b2/)
 
